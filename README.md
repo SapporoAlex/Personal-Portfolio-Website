@@ -1,4 +1,4 @@
-# Personal Portfolio Website
+# Portfolio Website
 
 <img src="Preview.jpg">
 
